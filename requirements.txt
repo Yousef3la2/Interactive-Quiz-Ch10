@@ -1,5 +1,5 @@
 streamlit
-PyMuPDF
+PyMuPDF==1.23.7
 re
 random
 defaultdict
