@@ -1,5 +1,3 @@
-import fitz
-import re
 import streamlit as st
 import random
 from collections import defaultdict
